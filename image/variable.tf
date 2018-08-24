@@ -1,3 +1,3 @@
 variable "image" {
-     description = "the jenkins image"
+  description = "the jenkins image"
 }
